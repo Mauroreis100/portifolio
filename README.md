@@ -7,7 +7,7 @@ Portfolio para estágio
 O controle das tarefas desse projecto será realizado no GitHib
 
 ## Ícones
-:package: nova funcionalidade
-:up: actualização
-:beatle: correcção de bug
-:sunny: realease (uma entrega da parte funcional)
+- :package: nova funcionalidade
+- :up: actualização
+- :beetle: correcção de bug
+- :sunny: realease (uma entrega da parte funcional)
